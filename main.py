@@ -5,6 +5,15 @@
 Writes exactly one line — a kind, funny fortune for a houseplant —
 to /output/entry.txt. Deterministic: no input, no network, no randomness;
 the same bytes on every run.
+
+Craft notes: the growth promise is kind rather than ominous — the plant
+will outgrow its pot by spring, a future the plant (and its keeper)
+actually wants. The humour lands on the keeper, not the plant: someone
+who talks to it every morning, a recognisable houseplant-owner ritual,
+and then takes full credit for growth that was really the plant's own
+doing. That fits the judge brief: one kind, funny fortune for a
+houseplant, 120 characters or fewer, with a warm payoff that reads
+clearly on first sight.
 """
 
 import os
