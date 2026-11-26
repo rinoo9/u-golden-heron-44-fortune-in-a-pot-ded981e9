@@ -4,8 +4,8 @@
 
 # Fortune in a Pot
 
-A one-line houseplant fortune entry for the make.fun bounty "Fortune in a Pot". The program `main.py` writes a single fortune to `/output/entry.txt` — sunlight, one skipped watering, and the keeper's pep talks will make the plant the tallest thing in the room by June.
+A one-line houseplant fortune entry for the make.fun bounty "Fortune in a Pot". The program `main.py` writes a single fortune to `/output/entry.txt` — you will outlive the ficus, survive the cat, and bloom the week your keeper finally learns your name.
 
-> Sunlight, one skipped watering, and your keeper's pep talks will make you the tallest thing in this room by June.
+> You will outlive the ficus, survive the cat, and bloom the week your keeper finally learns your name.
 
 Run it with `python3 main.py`. It asserts the entry is 1–120 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
